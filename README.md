@@ -13,6 +13,10 @@
 
 - 👨‍💻 My projects are available [https://sunboats-exhibitions.com/](https://sunboats-exhibitions.com/)
 
+- 👨‍💻 My projects are available [https://eslames.pythonanywhere.com/](https://eslames.pythonanywhere.com/)
+
+- 👨‍💻 My projects are available [https://elyassin.com/](https://elyassin.com/)
+
 - 💬 Ask me about **Python,Django,Javascript**
 
 - 📫 How to reach me **mekky.web22@gmail.com**
