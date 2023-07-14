@@ -9,12 +9,6 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 👨‍💻 My projects are available [https://sunboats-exhibitions.com/](https://sunboats-exhibitions.com/)
-
-- 👨‍💻 My projects are available [https://eslames.pythonanywhere.com/](https://eslames.pythonanywhere.com/)
-
-- 👨‍💻 My projects are available [https://eslames2.pythonanywhere.com/](https://eslames2.pythonanywhere.com/)
-
 - 💬 Ask me about **Python,Django,Javascript**
 
 - 📫 How to reach me **eslamdeveloper1@gmail.com**
